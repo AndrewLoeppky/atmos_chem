@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 
 # %%
 # import the data
-in_data = pd.read_csv("C:/Users/Owner/UBC_S2021/atmos_chem/problemset2.csv")
+in_data = pd.read_csv("C:/Users/Owner/UBC_S2021/atmos_chem/ps2/problemset2.csv")
 
 # %% [markdown]
 # We want to plot
